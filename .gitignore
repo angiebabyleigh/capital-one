@@ -1,0 +1,6 @@
+cat .gitignore
+target/
+abc.txt
+*.log
+**/*.jar
+
